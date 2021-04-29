@@ -1,0 +1,25 @@
+{
+  "name": "nodejscoursebook",
+  "version": "1.0.0",
+  "description": "study nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnjssla94/nodejsCourseBook.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnjssla94/nodejsCourseBook/issues"
+  },
+  "homepage": "https://github.com/dnjssla94/nodejsCourseBook#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
